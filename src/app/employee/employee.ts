@@ -3,9 +3,9 @@ export interface Employee {
   firstName: string;
   lastName: string;
   email: string;
+  phone: string;
   role: string;
   team: string;
-  phone: string;
   branch: string;
   active: boolean;
   batchCode: string;
